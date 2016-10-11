@@ -4,19 +4,53 @@
     custom styles
    ========================================================================== */
 
+body {
+    width: 100%;
+    height: 100%;
+}
 
+html {
+    width: 100%;
+    height: 100%;
+}
 
+.section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
 
+#home{
+	background: #039BE5;
+	
+}
 
+h1{
+	font-size: 55px;
+}
 
+@media (max-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
 
+}
+@media (max-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
 
+}
+@media (max-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
 
+	h1{
+		font-size: 45px;
+	}
 
+}
+@media (max-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
 
+}
+@media (max-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
 
+}
+@media (max-width:1281px) { /* hi-res laptops and desktops */ 
 
-
-
-
+}
 
