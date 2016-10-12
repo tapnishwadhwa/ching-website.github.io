@@ -23,12 +23,12 @@ html {
 }
 
 #home{
-	background: #039BE5;
+	background: #7ed666;
 	
 }
 
 h1{
-	font-size: 55px;
+	font-size: 55p
 }
 
 @media (max-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
